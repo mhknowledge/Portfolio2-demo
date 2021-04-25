@@ -141,7 +141,8 @@ img{
   } */
 /*codings adds the zoom out feature to the My Projects images */
 .zoom {
-margin-left: 25px;
+margin-left: 50px;
+margin-right: 25px;
 }
 .zoom:hover{
     -ms-transform: scale(1.3); /* IE 9 */
